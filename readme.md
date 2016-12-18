@@ -15,7 +15,7 @@ There's a WP filter for that but make sure you keep IDs and class for inputs. Ot
 
 ![Show login password](/assets/screenshots/login.png?raw=true)
 
-![Show password](/assets/screenshots/demo.png?raw=true)
+![Show password](/assets/screenshots/demo1.png?raw=true)
 
 ## Thanks ##
 
