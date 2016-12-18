@@ -1,0 +1,15 @@
+{
+	"name": "BeAPI/acf-wp-show-password",
+	"desciption": "Very simple WordPress plugin to add a checkbox show password when it's an ACF input type password - it also adds this functionnality on login screen WordPress.",
+	"type": "wordpress-plugin",
+    	"homepage": "https://github.com/BeAPI/acf-wp-show-password",
+    	"authors": [
+	    	{
+			 "name": "BeAPI",
+			 "email": "human@beapi.fr"
+	    	}
+	  ],
+    	"require": {
+        	"php": ">=5.4"
+    	}
+}
