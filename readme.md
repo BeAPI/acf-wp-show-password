@@ -24,6 +24,10 @@ There's a WP filter for that but make sure you keep IDs and class for inputs. Ot
 
 ![Show password](/assets/screenshots/demo1.png?raw=true)
 
+## Requirements
+
+* PHP 5.4
+
 ## Thanks ##
 
 Thanks to Elliot Condon http://www.elliotcondon.com/ for creating Advanced Custom Fields.
